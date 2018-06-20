@@ -1,0 +1,7 @@
+Basic Concept
+1.	Code smell merupakan salah satu issue atau kemungkinan kesalahan yang biasa terjadi pada pemrograman OOP. 
+Salah satu contohnya adalah adanya duplicated mothod. Cara untuk mengatasi duplicated method adalah 
+dengan melakukan ekstrak method.
+2.	REST 
+POST digunakan untuk meng-create sesuatu yang baru, sedangkan GET digunakan untuk mengakses atau reading data yang sudah ada.
+hal yang tidak boleh dilakukan ketika menghandle request dengan ketua method tersebut adalah dengan menggunakannya secara terbalik.
